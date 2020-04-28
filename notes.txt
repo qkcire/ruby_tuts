@@ -1,0 +1,2 @@
+#! #!/usr/bin/env ruby
+allows command line to run ruby scripts w/o $ruby ____.rb
